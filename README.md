@@ -8,6 +8,8 @@ We will provide you with a real-world data set and some infrastructure for getti
 
 # Project Creator
 - Muhammad Mahad Rasool 
+# Data Set Used
+- The data set used is from UCSD 2005 Facebook data based on real data.
 
 # Technical Description
 #### Programming Language
