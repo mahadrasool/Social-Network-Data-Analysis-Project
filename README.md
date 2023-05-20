@@ -18,7 +18,18 @@ We will provide you with a real-world data set and some infrastructure for getti
 - Twilio APIs and other APIs have been used
 - Focus on secure and robust programming and advanced algorithms
 
-# Algorithms Used
+# Major Algorithms Used 
+#### - Breadth First Search(BFS) 
+#### - Depth First Search(DFS) 
+#### - Single Source Shortest Path (SSSP
+#### - All Pair Shortest Path(APSP)
+#### - Johnson's Algorithm
+#### - Graph Algorithms
+
+# Data Structures Used
+#### - Linked List
+#### - Stack
+#### - Queue
 - The project almost all the algorithms used in graphs taught in 6.006 Introduction to Algorithms Course except dynamic programming concept.
 - The project can be extended to include additinal algorithms and code has been commented everywhere with javadocs to improve resuability principle of software engineering.
 - The project has been built using advanced principles of software engineering and programming
